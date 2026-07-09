@@ -1,4 +1,4 @@
-/*
+
 class Array
 {
     static void Main()
@@ -14,4 +14,3 @@ class Array
         }
 }
 }
-*/

@@ -1,4 +1,4 @@
-﻿/*
+﻿
 class Classobjecteg
 {
 static void Main()
@@ -8,4 +8,3 @@ static void Main()
 }
 
 }
-*/

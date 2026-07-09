@@ -1,4 +1,4 @@
-/*
+
 public class Student
 {
     int rollno;
@@ -27,4 +27,3 @@ public class Student
     
 
 }
-*/
