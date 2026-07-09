@@ -1,4 +1,4 @@
-﻿/*
+﻿
 class Variabledatatypes()
 {
 static void Main()
@@ -18,4 +18,3 @@ static void Main()
 
 }
 }
-*/

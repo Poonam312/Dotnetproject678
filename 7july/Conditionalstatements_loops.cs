@@ -1,4 +1,4 @@
-/*
+
 public class Conditionalstatements_loops
 { 
     static  void Main()
@@ -43,4 +43,4 @@ do
 }
 
 }
-*/
+

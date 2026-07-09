@@ -1,5 +1,5 @@
 
-/*
+
 public class Operators
 {
     static void Main()
@@ -38,4 +38,3 @@ Console.WriteLine(num1!=num2);
 
 
 }
-*/
