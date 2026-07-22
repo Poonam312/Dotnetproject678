@@ -1,0 +1,55 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<style>
+    h1{
+        text-align:center;
+        color:blue;
+    }
+
+    table{
+        width:60%;
+        margin:auto;
+        border-collapse:collapse;
+    }
+
+    th{
+        background-color:lightblue;
+    }
+
+    th,td{
+        border:1px solid black;
+        padding:10px;
+        text-align:center;
+    }
+</style>
+
+<div class="text-center">
+    <h1>Welcome Student Portal</h1>
+</div>
+
+<div>
+    <table>
+        <tr>
+            <th>ID</th>
+            <th>NAME</th>
+            <th>AGE</th>
+            <th>COURSE</th>
+            <th>GENDER</th>
+            <th>QUALIFICATION</th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td>@item.Age</td>
+                <td>@item.Course</td>
+                <td>@item.Gender</td>
+                <td>@item.Qualification</td>
+            </tr>
+        }
+    </table>
+</div>
