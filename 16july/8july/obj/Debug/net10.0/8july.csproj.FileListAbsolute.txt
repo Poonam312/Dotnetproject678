@@ -1,0 +1,14 @@
+F:\Newdonet\8july\bin\Debug\net10.0\8july.exe
+F:\Newdonet\8july\bin\Debug\net10.0\8july.deps.json
+F:\Newdonet\8july\bin\Debug\net10.0\8july.runtimeconfig.json
+F:\Newdonet\8july\bin\Debug\net10.0\8july.dll
+F:\Newdonet\8july\bin\Debug\net10.0\8july.pdb
+F:\Newdonet\8july\obj\Debug\net10.0\8july.GeneratedMSBuildEditorConfig.editorconfig
+F:\Newdonet\8july\obj\Debug\net10.0\8july.AssemblyInfoInputs.cache
+F:\Newdonet\8july\obj\Debug\net10.0\8july.AssemblyInfo.cs
+F:\Newdonet\8july\obj\Debug\net10.0\8july.csproj.CoreCompileInputs.cache
+F:\Newdonet\8july\obj\Debug\net10.0\8july.dll
+F:\Newdonet\8july\obj\Debug\net10.0\refint\8july.dll
+F:\Newdonet\8july\obj\Debug\net10.0\8july.pdb
+F:\Newdonet\8july\obj\Debug\net10.0\8july.genruntimeconfig.cache
+F:\Newdonet\8july\obj\Debug\net10.0\ref\8july.dll

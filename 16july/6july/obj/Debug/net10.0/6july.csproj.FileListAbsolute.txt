@@ -1,0 +1,14 @@
+F:\Newdonet\6july\bin\Debug\net10.0\6july.exe
+F:\Newdonet\6july\bin\Debug\net10.0\6july.deps.json
+F:\Newdonet\6july\bin\Debug\net10.0\6july.runtimeconfig.json
+F:\Newdonet\6july\bin\Debug\net10.0\6july.dll
+F:\Newdonet\6july\bin\Debug\net10.0\6july.pdb
+F:\Newdonet\6july\obj\Debug\net10.0\6july.GeneratedMSBuildEditorConfig.editorconfig
+F:\Newdonet\6july\obj\Debug\net10.0\6july.AssemblyInfoInputs.cache
+F:\Newdonet\6july\obj\Debug\net10.0\6july.AssemblyInfo.cs
+F:\Newdonet\6july\obj\Debug\net10.0\6july.csproj.CoreCompileInputs.cache
+F:\Newdonet\6july\obj\Debug\net10.0\6july.dll
+F:\Newdonet\6july\obj\Debug\net10.0\refint\6july.dll
+F:\Newdonet\6july\obj\Debug\net10.0\6july.pdb
+F:\Newdonet\6july\obj\Debug\net10.0\6july.genruntimeconfig.cache
+F:\Newdonet\6july\obj\Debug\net10.0\ref\6july.dll
